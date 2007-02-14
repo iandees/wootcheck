@@ -1,4 +1,6 @@
+#summary Woot-check code introduction wiki page
 #labels Featured
+
 = About the Project =
 
 The wootcheck Google Code project is a collaboration between 
@@ -17,6 +19,5 @@ Currently the coders contributing to the project are:
   * Ian Dees
   * Crashspeeder
   * adindb
-
 
 
