@@ -19,3 +19,5 @@ Currently the coders contributing to the project are:
   * Ian Dees
   * Crashspeeder
   * adindb
+
+As well as Luke and Andrew from [http://www.woot.com/ Woot.com]
