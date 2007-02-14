@@ -1,4 +1,4 @@
-#summary Woot-check code introduction wiki page
+#summary "One woot-checker to rule them all"
 #labels Featured
 
 = About the Project =
@@ -19,5 +19,4 @@ Currently the coders contributing to the project are:
   * Ian Dees
   * Crashspeeder
   * adindb
-
 
